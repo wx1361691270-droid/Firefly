@@ -14,7 +14,7 @@ draft: false
 <a id="bilibili"></a>
 ## 无尽爬塔+肉鸽的水墨风爬塔游戏
 
-![图片说明](D:\blog\Firefly\src\content\posts\images\loadin.png)
+![图片说明](./images/loadin.png)
 
 开发日志一览
 
