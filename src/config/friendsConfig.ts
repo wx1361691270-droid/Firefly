@@ -48,7 +48,7 @@ export const friendsConfig: FriendLink[] = [
 		siteurl: "https://github.com/withastro/astro",
 		tags: ["Framework"],
 		weight: 8,
-		enabled: true,
+		enabled: false, // 目前这个友链是禁用的，启用后会显示在友链页面
 	},
 ];
 
