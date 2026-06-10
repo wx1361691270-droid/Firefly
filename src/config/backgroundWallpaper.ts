@@ -72,17 +72,17 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否允许用户通过控制面板切换横幅标题显示
 			switchable: true,
 			// 主页横幅主标题
-			title: "Lovely firefly!",
+			title: "墨染仙途",
 			// 主页横幅主标题字体大小
 			titleSize: "3.8rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
+				"一个人的修仙之路",
+				"墨染修仙，剑心未冷",
+				/*"Amidst Silenced Stars, I Deep Sleep",
 				"Upon Lighted Fyrefly, I Soon Gaze",
 				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"In Finalized Morrow, I Full Bloom",*/
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
