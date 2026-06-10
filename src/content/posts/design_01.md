@@ -3,6 +3,7 @@ title: "墨染仙途开发日志_01"
 published: 2026-06-09
 pinned: true
 description: "AI开发卡牌游戏墨染仙途日志"
+image: ./images/fengmian_1.png
 tags: ["示例", "开发日志", "墨染仙途"]
 category: "开发日志"
 author: "AllenW"
