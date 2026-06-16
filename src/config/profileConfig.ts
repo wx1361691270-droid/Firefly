@@ -12,7 +12,7 @@ export const profileConfig: ProfileConfig = {
 	name: "AllenWX",
 
 	// 个人签名
-	bio: "墨染修仙系列制作人.",
+	bio: "一个热爱游戏的策划",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
