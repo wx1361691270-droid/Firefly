@@ -7,6 +7,7 @@ tags: [KaTeX, Math, 示例]
 category: 文章示例
 draft: false
 image: api
+draft: true
 ---
 
 本文展示了 [Firefly](https://github.com/CuteLeaf/Firefly) 主题对 KaTeX 数学公式的渲染支持。

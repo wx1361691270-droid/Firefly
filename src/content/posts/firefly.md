@@ -8,6 +8,7 @@ tags: [Markdown, Firefly, 博客, 主题, 模板]
 category: 文章示例
 draft: false
 image: ./images/firefly2.avif
+draft: true
 ---
 
 ## 🌟 项目概述
