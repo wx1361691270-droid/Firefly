@@ -51,7 +51,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 		playlist: [
 			{
 				name: "江湖风起",
-				artist: "墨染修仙",
+				artist: "墨染仙途",
 				url: "/assets/music/江湖风起.mp3",
 				cover: "/assets/music/cover/fengmian_2.webp",
 				lrc: "",

@@ -78,7 +78,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 主页横幅副标题
 			subtitle: [
 				"一个人的修仙之路",
-				"墨染修仙，剑心未冷",
+				"墨染仙途，剑心未冷",
 				/*"Amidst Silenced Stars, I Deep Sleep",
 				"Upon Lighted Fyrefly, I Soon Gaze",
 				"From Undreamt Night, I Thence Shine",
